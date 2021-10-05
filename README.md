@@ -1,4 +1,4 @@
-### Olá, sejá bem vindo jovem 👋 :grinning:
+### Olá, bem vindo jovem 👋 :grinning:
 
 Muito prazer, meu nome é Gabriela, mais conhecida como Gabi 😊. Sou graduada em Sistemas de Informação 🎓, pela UEMG. O intuito deste canal é a criação de um portifólio para a área de Ciências de Dados e Análise de dados. Sou uma pessoa determinada, esforçada e em busca de novos conhecimentos. 
 
@@ -6,7 +6,7 @@ Muito prazer, meu nome é Gabriela, mais conhecida como Gabi 😊. Sou graduada 
 
 Nas horas vagas, gosto de navegar pelas redes sociais 📱, viajar 🌎 e ouvir musicas 🎶.
 
-Me encontre 👇
+#Me encontre 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielastech/)](https://www.linkedin.com/in/gabrielastech/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/gabiiii_saantos/)](https://www.instagram.com/gabiiii_saantos/)
