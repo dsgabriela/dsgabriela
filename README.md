@@ -1,6 +1,6 @@
 ### Olá, bem vindo jovem 👋 :grinning:
 
-Muito prazer, meu nome é Gabriela, mais conhecida como Gabi 😊. Sou graduada em Sistemas de Informação 🎓, pela UEMG. O intuito deste canal é a criação de um portifólio para a área de Ciências de Dados e Análise de dados. Sou uma pessoa determinada, esforçada e em busca de novos conhecimentos. 
+Muito prazer, meu nome é Gabriela, mais conhecida como Gabi 😊. Sou graduada em Sistemas de Informação 🎓, pela UEMG. O intuito deste canal é a criação de um portfólio para a área de Ciências de Dados e Análise de dados. Sou uma pessoa determinada, esforçada e em busca de novos conhecimentos. 
 
 ⚡📊👩‍💻 Data Science - Analytics - Business
 
